@@ -1,6 +1,12 @@
 ---
 label: Test
 hide_body: false
-fields: []
+fields:
+- name: test
+  type: text
+  config:
+    required: false
+  label: Test
+  description: "![Test](/uploads/subdivo_plakat_ver2.png"
 pages:
 - content/Test.md
